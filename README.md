@@ -3,4 +3,4 @@ For this project, I created an SQL database for a hypothetical bookstore and pop
 
 The link for the interface is: http://www.auburn.edu/~wpm0026
 
-Feel free to come up with your own queries to practice your SQL! I have included some pre-written queries for you to try out as well.
+I have included a file called sql.txt that has some prewritten queries and what their results should be. Feel free to check out the MainScript.sql and come up with some queries of your own!
