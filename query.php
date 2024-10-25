@@ -1,7 +1,7 @@
 <?php
 $host = 'sysmysql8.auburn.edu'; // or your host
 $username = 'wpm0026'; // your database username
-$password = 'MyDatabaseWeagle1'; // your database password
+$password = '****'; // your database password
 $database = 'wpm0026db'; // your database name
 
 
